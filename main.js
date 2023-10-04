@@ -36,4 +36,4 @@ function tocaSomTom(){
 document.querySelector(',tecla_tom').onclick = tocaSomTom;
 }
 {
- document.querySelectorA11('.tecla');}
+ document.querySelector('.tecla');}
